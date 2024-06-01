@@ -1,4 +1,4 @@
-Báo cáo giữa kì bao gồm: 
+Dự án bao gồm: 
 1. File cuốn báo cáo gồm 1 bản .docx và 1 bản .pdf
 2. File cleandata.py là file tiền xử lý dữ liệu
 3. Codetangcuongdulieu.zip là file nén srouce code và các file liên quan để tăng cường dữ liệu
